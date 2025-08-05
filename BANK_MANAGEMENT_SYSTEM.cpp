@@ -404,7 +404,7 @@ void intro()
 	cout<<"\n| BANK";
 	cout<<"\n| MANAGEMENT";
 	cout<<"\n| SYSTEM";
-	cout<<"\n\nMADE BY : Pulkit Sinha, Priyanshu Sharma, Raghvan Pareek, Swamy Pulaparthi";
+	cout<<"\n\nMADE BY : Pulkit Sinha & Anish Kumar Singh";
 	cout<<"\n\nPress ENTER to continue...";
     cin.get();
 }
