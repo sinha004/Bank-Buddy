@@ -75,6 +75,4 @@ When you run the program, you'll be presented with a login screen to select eith
 ## Developers
 
 - Pulkit Sinha
-- Priyanshu Sharma
-- Raghvan Pareek
-- Swamy Pulaparthi
+- Anish Kumar Singh
